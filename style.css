@@ -1,0 +1,19 @@
+.col-sm-4{
+border: 5px solid black;
+}
+
+.col-sm-8{
+border: 5px solid black;
+}
+
+.col-md-6{
+border: 5px solid rgb(250, 0, 0);
+}
+
+.col-lg-10{
+border: 5px solid rgb(0, 47, 255);
+}
+
+.col-lg-2{
+border: 5px solid rgb(0, 47, 255);
+}
